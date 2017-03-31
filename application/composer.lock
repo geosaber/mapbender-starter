@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "2e1ef2baab07186a1d34d0916d5e13d4",
+    "content-hash": "0c9dbc5d654500364a5ed9235be8d40e",
     "packages": [
         {
             "name": "afarkas/html5shiv",
@@ -2212,12 +2212,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/mapbender/fom.git",
-                "reference": "4fe92fb711302e4e3f8505855d89b25884bf6de5"
+                "reference": "1c3579c6f416c4af2e3d3b7ec5dc6375a7095bc4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mapbender/fom/zipball/4fe92fb711302e4e3f8505855d89b25884bf6de5",
-                "reference": "4fe92fb711302e4e3f8505855d89b25884bf6de5",
+                "url": "https://api.github.com/repos/mapbender/fom/zipball/1c3579c6f416c4af2e3d3b7ec5dc6375a7095bc4",
+                "reference": "1c3579c6f416c4af2e3d3b7ec5dc6375a7095bc4",
                 "shasum": ""
             },
             "require": {
@@ -2239,7 +2239,7 @@
                 "mapbender",
                 "module"
             ],
-            "time": "2017-03-31 08:05:54"
+            "time": "2017-03-31 12:33:22"
         },
         {
             "name": "mapbender/mapbender",
@@ -2247,12 +2247,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/mapbender/mapbender.git",
-                "reference": "fdabe71d1ac8d9a94cc5c565d42bbbd3b7e09f9b"
+                "reference": "f016283314c6c7ed54836cf7f7e9674ea3692546"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mapbender/mapbender/zipball/fdabe71d1ac8d9a94cc5c565d42bbbd3b7e09f9b",
-                "reference": "fdabe71d1ac8d9a94cc5c565d42bbbd3b7e09f9b",
+                "url": "https://api.github.com/repos/mapbender/mapbender/zipball/f016283314c6c7ed54836cf7f7e9674ea3692546",
+                "reference": "f016283314c6c7ed54836cf7f7e9674ea3692546",
                 "shasum": ""
             },
             "require": {
@@ -2285,7 +2285,7 @@
                 "mapbender",
                 "module"
             ],
-            "time": "2017-03-31 09:08:17"
+            "time": "2017-03-31 12:34:06"
         },
         {
             "name": "mapbender/mapbender-icons",
