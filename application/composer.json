@@ -37,7 +37,7 @@
         "symfony/swiftmailer-bundle": "2.3.x",
         "symfony/monolog-bundle": "2.3.x",
         "sensio/distribution-bundle": "~4.0",
-        "sensio/framework-extra-bundle": "2.3.x",
+        "sensio/framework-extra-bundle": "~3.0",
         "sensio/generator-bundle": "2.3.x",
         "incenteev/composer-parameter-handler": "~2.0",
 
