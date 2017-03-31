@@ -3,7 +3,7 @@
     "description": "Mapbender",
     "type": "project",
     "license": "MIT",
-    "version": "3.0.6.0",
+    "version": "3.1.0-dev",
     "homepage": "http://www.mapbender.org",
     "support": {
         "email":        "mapbender@osgeo.org",
@@ -29,9 +29,7 @@
     },
     "require": {
         "php": ">=5.3.9",
-        "symfony/symfony": "2.3.x",
-        "doctrine/common": "2.5.*",
-        "doctrine/cache": "1.3.*",
+        "symfony/symfony": "2.8.x",
         "doctrine/orm": "~2.2,>=2.2.3",
         "doctrine/doctrine-bundle": "1.2.x",
         "twig/extensions": "1.x",
@@ -51,8 +49,8 @@
 
         "mnsami/composer-custom-directory-installer": "1.0.*",
 
-        "mapbender/fom": "dev-release/3.0.6",
-        "mapbender/mapbender": "dev-release/3.0.6",
+        "mapbender/fom": "dev-feature/symfony-upgrade-2.8",
+        "mapbender/mapbender": "dev-feature/symfony-upgrade-2.8",
         "mapbender/owsproxy": "dev-release/3.0.6",
         "mapbender/digitizer": "1.1.x",
         "mapbender/documentation": "dev-release/3.0.6"
@@ -107,7 +105,7 @@
         "component-dir": "web/components",
         "component-baseurl": "/components",
         "platform": {
-            "php": "5.3.19"
+            "php": "5.5.4"
         },
         "archive-dir": "../dist",
         "archive-format": "tar.gz",
